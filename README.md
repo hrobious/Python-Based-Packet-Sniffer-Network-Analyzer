@@ -36,7 +36,7 @@ Clone the repository:
 
 
 
-git clone https://github.com/jamilahmed2/packet-analyzer.git
+git clone https://github.com/hrobious/Python-Based-Packet-Sniffer-Network-Analyzer.git
 cd packet-analyzer
 Run the script with administrative privileges:
 
